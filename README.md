@@ -40,7 +40,7 @@ Este é um projeto desenvolvido para buscar e exibir playlists do Spotify usando
 
 ### Pré requisitos
 
-- Node.js e npm instalados no seu computador. Caso não tenha você pode baixá-los aqui [https://nodejs.org/pt]
+- Node.js e npm instalados no seu computador. Caso não tenha você pode baixá-los [aqui](https://nodejs.org/pt)
 
 ### Passos
 
@@ -57,7 +57,7 @@ cd spotify-app
 npm install
 
 ```
-3. Configure a API do Spotify: Para que a integração com a API do Spotify funcione, é necessário ter um Client ID e Client Secret do Spotify. Crie uma conta de desenvolvedor no Spotify Developer Dashboard [https://developer.spotify.com/dashboard] e gere as credenciais para o seu aplicativo. Após obter as credenciais, adicione-as no código (dentro do arquivo que manipula a requisição de autenticação).
+3. Configure a API do Spotify: Para que a integração com a API do Spotify funcione, é necessário ter um Client ID e Client Secret do Spotify. Crie uma conta de desenvolvedor no [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) e gere as credenciais para o seu aplicativo. Após obter as credenciais, adicione-as no código (dentro do arquivo que manipula a requisição de autenticação).
 
 4. Inicie o servidor de desenvolvimento: Agora, inicie o servidor de desenvolvimento com o comando:
 
