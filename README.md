@@ -64,7 +64,7 @@ npm install
 ```sh
 npm start
 ```
-O aplicativo será executado em [http://localhost:3000].
+O aplicativo será executado em http://localhost:3000.
 
 ## Licença 📜
 
