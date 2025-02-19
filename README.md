@@ -53,7 +53,7 @@ git clone https://github.com/Bru-Silveira/spotify-app.git
 2. Instale as dependências: Navegue até o diretório do projeto e instale as dependências com o comando:
 
 ```sh
-cd spotify-app
+cd client
 npm install
 
 ```
